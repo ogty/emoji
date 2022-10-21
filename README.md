@@ -1,0 +1,41 @@
+<h1 align="center">emoji</h1>
+
+- 🐳: Docker
+- 🐧: Linux
+- 🚀: Astro
+- 🦀: Rust
+- 🐭: Go
+- 🐘: PHP, PostgreSQL
+- 🐍: Python
+- 🦭: MariaDB
+- 🦕: Deno
+- 🐙: GitHub, Ruby on Rails
+- 💎: Ruby
+- 🦖: Mozilla, Zig
+- 🍪: Cookie
+- 🦏: JavaScript
+- 🐦: Swift
+- 🥧: RaspberryPi
+- 🍺: Brew
+- 🍎: Mac
+- 🦊: FireFox
+- 🦝: GitLab
+- 🤖: Android
+- 🔥: Firebase
+- 🦁: Brave
+- 🪟: Windows
+- 🎯: Dart
+- 🦌: TypeScript
+- 📊: GraphQL
+- 🎸: Django
+- 🐬: MySQL
+- 🧶: Yarn
+- 🐈: Yarn
+- 🍋: Fresh
+- 🍃: MongoDB
+- ⚗️: Flask
+- ☕: CoffeeScript, Java
+- ⚡️: Vite, FastAPI
+- ⚛️: React
+- ☸️: Kubernetes
+- ☁️: CloudFlare, Google Cloud

@@ -1,6 +1,13 @@
 <h1 align="center">emoji</h1>
 
 <table>
+<thead>
+<tr>
+<th>Emoji</th>
+<th>Copy</th>
+<th>Topics</th>
+</tr>
+</thead>
 <tr>
 <td>🐳</td>
 <td>
@@ -431,6 +438,32 @@
 </td>
 <td><ul>
 <li>MongoDB</li>
+</td></ul>
+</tr><tr></tr>
+<tr>
+<td>👽</td>
+<td>
+
+```
+👽
+```
+
+</td>
+<td><ul>
+<li>Lisp</li>
+</td></ul>
+</tr><tr></tr>
+<tr>
+<td>🧜‍♀️</td>
+<td>
+
+```
+🧜‍♀️
+```
+
+</td>
+<td><ul>
+<li>Mermaid</li>
 </td></ul>
 </tr><tr></tr>
 <tr>
